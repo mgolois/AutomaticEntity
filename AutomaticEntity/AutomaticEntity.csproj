@@ -4,7 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>0.1.0</Version>
     <Authors>Golois Mouelet</Authors>
-    <Description>Using Entity Framework Core at the background, automatically plug and play this app to do basic CRUD operation with less configuration</Description>
+    <Description>Using Entity Framework Core at the background, automatically plug and play this package to do basic CRUD operation with less configuration</Description>
+    <PackageProjectUrl>https://github.com/mgolois/automaticentity</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mgolois/automaticentity</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
